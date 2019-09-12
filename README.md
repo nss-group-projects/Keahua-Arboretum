@@ -135,7 +135,7 @@ If the user chose to place them in a location that would be over capacity if the
 
 1. Mountain (2 animals)
 2. Forest (4 animals)
-2. Forest (0 animals)
+3. Forest (0 animals)
 
 Where would you like to release the Ope'ape'a?
 > _
@@ -222,7 +222,7 @@ Where would you like to plant the Sun Jade Vine?
 
 ### Arboretum Report Menu
 
-Choosing this option will list all existing biomes, and then list each animal in that biome. Only display the first 8 characters of the id in the report.
+Choosing this option will list all existing biomes, and then list all animals and plants in that biome. Only display the first 8 characters of the id in the report.
 
 ```html
 River [157b2efe]
@@ -231,6 +231,7 @@ River [157b2efe]
 Mountain [bdf33960]
     Ope'ape'a (bf9ad976)
     Ope'ape'a (f9dd0afa)
+    Mountain Apple Tree (h91d77a0)
 
 
 Press any key to continue...
